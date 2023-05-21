@@ -6,7 +6,7 @@
 
 
 ### About me   
-- I am Muhammed. I am a Unity game developer, and currently, I work at "[Imdie Studios](https://www.imdiestudios.com)" company.  
+- I am Muhammed. I am a Unity game developer, and currently, I work at [Imdie Studios](https://www.imdiestudios.com) company.  
   
 
 <br/>  
