@@ -52,25 +52,3 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammedEsmer&theme=dark&hide_border=false&include_all_commits=false&count_private=true" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedEsmer&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" align="right" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MuhammedEsmer&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
